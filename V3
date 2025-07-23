@@ -1,4 +1,4 @@
-loadstring(game:HttpGet("https://cdn.sourceb.in/bins/c8PvPPe85i/0", true))()
+loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/83gXp5bsls3G9rsB/raw", true))()
 local Players = game:GetService("Players")
 local player = Players.LocalPlayer
 local playerGui = player:WaitForChild("PlayerGui")
